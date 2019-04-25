@@ -22,7 +22,7 @@ function iLoveTheBeatles(num){
   var array = [];
   do {
   empty.push("I love the Beatles!")
-  n--
+  num--
 } while (num < 15);
   return array}
 }
