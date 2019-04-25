@@ -17,9 +17,17 @@ function johnLennonFacts(facts){
   return facts
 }
 
+
+var i = 0;
+
+function incrementVariable() {
+  i = i + 1;
+  return i;
+}
+ 
 function iLoveTheBeatles(num){
-  var empty = []
-  do { empty.push("I love the Beatles!");
-  num++;
-  while (num < 15)
-}}
+  var empty = [];
+  do {
+  console.log("doo-bee-doo-bee-doo");
+} while (incrementVariable() < 15);}
+  
