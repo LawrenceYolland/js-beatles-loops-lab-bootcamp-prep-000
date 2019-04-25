@@ -8,6 +8,6 @@ function theBeatlesPlay(musicianArray, instrumentArray){
   return newArray
 }
 
-function johnLennonFacts(){
-  
+function johnLennonFacts(facts){
+  while
 }
