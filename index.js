@@ -28,6 +28,7 @@ function incrementVariable() {
 function iLoveTheBeatles(num){
   var empty = [];
   do {
-  console.log("doo-bee-doo-bee-doo");
+  empty.push("I love the Beatles!")
+  // console.log("doo-bee-doo-bee-doo");
 } while (incrementVariable() < 15);}
   
