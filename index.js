@@ -16,3 +16,10 @@ function johnLennonFacts(facts){
   }
   return facts
 }
+
+function iLoveTheBeatles(num){
+  var empty = []
+  do { //something;
+  num++
+  while (); }
+}
